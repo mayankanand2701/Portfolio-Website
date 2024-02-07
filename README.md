@@ -7,5 +7,10 @@ Welcome to my portfolio website GitHub repository! This repository contains the 
 - CSS
 - JavaScript
 
+A glimpse of my Website :
+
+![Home Page](Images/WesiteHomePage.png)
+
 I'm looking forward to connecting with you!
+
 Happy Coding😄.
