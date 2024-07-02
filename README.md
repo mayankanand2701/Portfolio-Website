@@ -4,12 +4,7 @@ Welcome to my portfolio website GitHub repository! This repository contains the 
 
 ## Techstack used
 - HTML
-- CSS
-- JavaScript
-
-A glimpse of my Website :
-
-![Home Page](Images/WesiteHomePage.png)
+- Bootstrap
 
 I'm looking forward to connecting with you!
 
